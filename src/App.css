@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.head {
+  background-color: #f55a5a;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  column-gap: 10px;
+}
+.head--text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
 }
 
-.App-link {
-  color: #61dafb;
+.card {
+  display: flex;
+  column-gap: 10px;
+  padding: 30px 20px;
 }
+.cardImage {
+  width: 150px;
+  border-radius: 5px;
+}
+.card--main {
+  column-gap: 10px;
+}
+.card--location {
+  display: inline;
+  padding: 5px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2b283a;
+}
+.card--link {
+  color: #918e9b;
+  display: inline;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+}
+.card--description {
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2b283a;
+}
+.card--date {
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2b283a;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.card--title{
+    margin: 0px 0px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
