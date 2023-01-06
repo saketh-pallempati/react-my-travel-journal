@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/react-my-travel-journal/static/css/main.bf041fc6.css",
-    "main.js": "/react-my-travel-journal/static/js/main.964bfaeb.js",
+    "main.js": "/react-my-travel-journal/static/js/main.7e357c72.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-my-travel-journal/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Sydney Opera House.jpg": "/react-my-travel-journal/static/media/Sydney Opera House.59b49e9765359b943502.jpg",
+    "static/media/Japan.jpeg": "/react-my-travel-journal/static/media/Japan.6b2c28a7b03be152b459.jpeg",
+    "static/media/Geirangerfjord_.jpg": "/react-my-travel-journal/static/media/Geirangerfjord_.7df774337bed8b8e06f4.jpg",
     "index.html": "/react-my-travel-journal/index.html",
     "main.bf041fc6.css.map": "/react-my-travel-journal/static/css/main.bf041fc6.css.map",
-    "main.964bfaeb.js.map": "/react-my-travel-journal/static/js/main.964bfaeb.js.map",
+    "main.7e357c72.js.map": "/react-my-travel-journal/static/js/main.7e357c72.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-my-travel-journal/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf041fc6.css",
-    "static/js/main.964bfaeb.js"
+    "static/js/main.7e357c72.js"
   ]
 }
